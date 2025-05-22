@@ -1,40 +1,51 @@
 # Portofolio
 
-# 👩‍💻 Hello, I'm Silvia Margareta
-📍 6th Semester Undergraduate – Universitas Bunda Mulia
+# 👩‍💻 Silvia Margareta | Aspiring Data Scientist
 
-🎓 Faculty of Technology and Design – Data Science Major 
+**📍 6th Semester Undergraduate – Universitas Bunda Mulia**  
+**🎓 Faculty of Technology and Design – Data Science Major (GPA: 3.94/4.00)**  
 
-Welcome to my GitHub portfolio! I'm a data science student passionate about transforming raw data into meaningful insights and impactful solutions. I believe that creativity and analytical precision must go hand-in-hand to support data-driven decision-making in dynamic, real-world environments.
+---
 
-💼 What I Bring
-Strong foundation in data analysis, machine learning, and data visualization
+## 🧾 About Me  
+I'm a passionate data science student with a strong interest in transforming raw data into meaningful insights and strategic value.  
+I believe that creativity and precision must work together to drive effective data-driven decisions.  
+I enjoy solving real-world problems through data, and continuously strive to improve my technical and analytical skill sets.
 
-Experience using tools like Python, R, MySQL, Tableau, and WEKA
+---
 
-Leadership experience through organizational roles and national-level competitions
+## 💡 Technical Skills
 
-Certified in Data Science BIZ (CertNexus) – bridging data with business value
+- **Programming Languages:** Python, R, SQL  
+- **Tools & Software:** MySQL, Tableau, WEKA, Canva, Figma, Microsoft Office  
+- **Core Skills:**  
+  - Data Analysis & Visualization  
+  - Machine Learning & Deep Learning  
+  - Database Management  
+  - Business Intelligence  
+- **Soft Skills:** Communication · Leadership · Problem Solving · Time Management · Critical Thinking
 
-📂 Portfolio Highlights
-📊 Exploratory & statistical analysis of real-world datasets
+---
 
-🧠 Predictive modeling with supervised learning
+## 📁 Portfolio Highlights
 
-📈 Dashboard and report development using BI tools
+- 🔍 Exploratory Data Analysis (EDA) of real-world datasets  
+- 🤖 Machine Learning models for prediction and classification tasks  
+- 📊 Interactive dashboards and visual storytelling using BI tools  
+- 📈 Forecasting and trend analysis with statistical methods  
+- 🧠 Academic projects with practical applications
 
-🎯 Projects that emphasize business understanding and user-oriented design
+---
 
-🏆 Achievements
-Finalist – Big Data Challenge Competition (Satria Data 2023)
+## 🏆 Achievements
 
-Full Scholarship Recipient at Universitas Bunda Mulia
+- 🎯 Finalist – **Big Data Challenge Competition (Satria Data 2023)**  
+- 🎓 Awarded **Full Scholarship** at Universitas Bunda Mulia  
+- 🥇 Certified – **Data Science BIZ (CertNexus), April 2025**
 
-International CertNexus DS BIZ Certification (2025)
+---
 
-Let's connect and collaborate — I’m open to internships, project-based collaborations, and mentorship opportunities!
+## 🌐 Connect With Me
 
-📫 LinkedIn: https://www.linkedin.com/in/silvia-margareta/
-
-📧 Email: silviamargareta1363@gmail.com
-
+- 📧 Email: [silviamargareta1363@gmail.com](mailto:silviamargareta1363@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/silvia-margareta](https://www.linkedin.com/in/silvia-margareta)  
