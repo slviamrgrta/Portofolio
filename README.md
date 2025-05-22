@@ -98,24 +98,30 @@ I enjoy solving real-world problems through data, and continuously strive to imp
   </table>
 
   <!-- Project 3 -->
-<div style="display: flex; align-items: flex-start; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
-  <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Spambase.jpg" alt="Spam Email Classification" width="260" height="180" style="border-radius: 6px; object-fit: cover; margin-right: 20px;">
-  <div>
-    <h3>
-      <a href="https://github.com/slviamrgrta/Spambase-Project" target="_blank" style="color: #0969da; text-decoration: none;">📧 Spam Email Classification with Machine Learning</a>
-    </h3>
-    <p>
-      A machine learning project aimed at classifying emails as <strong>spam</strong> or <strong>non-spam</strong> using the <strong>XGBoost</strong> algorithm.
-      Developed as part of the final project for the <em>Machine Learning</em> course at Universitas Bunda Mulia.
-    </p>
-    <p>
-      Explored data preprocessing, SMOTE for class balancing, and model evaluation using confusion matrix and classification metrics.
-    </p>
-    <p>
-      <strong>Key Topics:</strong> Email Spam Detection · Imbalanced Classification · Feature Engineering · XGBoost<br/>
-      <strong>Tech Stack:</strong> <code>Python</code>, <code>XGBoost</code>, <code>scikit-learn</code>, <code>imbalanced-learn</code>, <code>pandas</code>, <code>matplotlib</code>
-    </p>
-  </div>
+  <table style="width: 100%; table-layout: fixed;">
+    <tr>
+      <td style="width: 360px;">
+        <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Spambase.jpg" width="360" alt="Spam Email Classification Cover" />
+      </td>
+      <td style="vertical-align: top; padding-left: 20px;">
+        <h3>
+          <a href="https://github.com/slviamrgrta/Spambase-Project" target="_blank" style="text-decoration: none;">📧 Spam Email Classification with Machine Learning</a>
+        </h3>
+        <p>
+          A machine learning project aimed at classifying emails as <strong>spam</strong> or <strong>non-spam</strong> using the <strong>XGBoost</strong> algorithm.
+          Developed as part of the final project for the <em>Machine Learning</em> course at Universitas Bunda Mulia.
+        </p>
+        <p>
+          Explored data preprocessing, SMOTE for class balancing, and model evaluation using confusion matrix and classification metrics.
+        </p>
+        <p>
+          <strong>Key Topics:</strong> Email Spam Detection · Imbalanced Classification · Feature Engineering · XGBoost<br/>
+          <strong>Tech Stack:</strong> <code>Python</code>, <code>XGBoost</code>, <code>scikit-learn</code>, <code>imbalanced-learn</code>, <code>pandas</code>, <code>matplotlib</code>
+        </p>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 
