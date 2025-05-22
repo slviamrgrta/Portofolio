@@ -67,9 +67,24 @@ I enjoy solving real-world problems through data, and continuously strive to imp
   </tr>
 </table>
 
-
-
 ---
+
+<table>
+  <tr>
+    <td>
+      <img src="images/6214afd2-c0c0-4db1-b025-3d39c3afab95.png" width="200"/>
+    </td>
+    <td>
+      <b><a href="https://github.com/yourusername/bca-sentiment-analysis" style="font-size: 18px;">📱 BCA Mobile App Sentiment Analysis</a></b><br>
+      A Natural Language Processing (NLP) project that classifies user reviews of the <b>BCA Mobile Banking</b> app from the Google Play Store into <b>positive</b>, <b>neutral</b>, or <b>negative</b> sentiments using the <b>IndoBERT</b> model.<br><br>
+      Leveraged <b>transformers</b> and user feedback data to provide actionable insights on user satisfaction, app performance, and service perception.
+      <br><br>
+      <b>Key Topics:</b> Sentiment Classification · User Experience · Mobile Banking · NLP · Customer Feedback<br>
+      <b>Tech Stack:</b> <code>Python</code>, <code>IndoBERT</code>, <code>Scikit-learn</code>, <code>NLTK</code>, <code>Streamlit</code>
+    </td>
+  </tr>
+</table>
+
 
 
 
