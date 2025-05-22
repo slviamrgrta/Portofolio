@@ -72,19 +72,25 @@ I enjoy solving real-world problems through data, and continuously strive to imp
 <table>
   <tr>
     <td>
-      <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Sentiment%20Analysis%20BCA.jpg" width="200"/>
+      <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Sentiment%20Analysis%20BCA.jpg" width="360" alt="Sentiment Analysis BCA Cover"/>
     </td>
-    <td>
-      <b><a href="https://github.com/slviamrgrta/Portofolio/blob/main/Sentiment%20Analysis%20BCA.jpg" style="font-size: 18px;">📱 BCA Mobile App Sentiment Analysis</a></b><br>
-      A Natural Language Processing (NLP) project that classifies user reviews of the <b>BCA Mobile Banking</b> app from the Google Play Store into <b>positive</b>, <b>neutral</b>, or <b>negative</b> sentiments using the <b>IndoBERT</b> model.<br><br>
-      Leveraged <b>transformers</b> and user feedback data to provide actionable insights on user satisfaction, app performance, and service perception.
-      <br><br>
-      <b>Key Topics:</b> Sentiment Classification · User Experience · Mobile Banking · NLP · Customer Feedback<br>
-      <b>Tech Stack:</b> <code>Python</code>, <code>IndoBERT</code>, <code>Scikit-learn</code>, <code>NLTK</code>, <code>Streamlit</code>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3><a href="https://github.com/slviamrgrta/Sentiment-Analysis-BCA" target="_blank" style="text-decoration: none;">💬 Sentiment Analysis on BCA Customer Feedback</a></h3>
+      <p>
+        A natural language processing project analyzing customer sentiment 
+        from social media and review data related to BCA banking services.
+      </p>
+      <p>
+        Leveraged <strong>Python</strong>, <strong>NLTK</strong>, and <strong>scikit-learn</strong> 
+        to preprocess text data, build classification models, and generate sentiment insights.
+      </p>
+      <p>
+        <strong>Key Topics:</strong> Sentiment Classification · Text Mining · Customer Feedback · NLP<br/>
+        <strong>Tech Stack:</strong> <code>Python</code>, <code>NLTK</code>, <code>scikit-learn</code>, <code>pandas</code>, <code>Jupyter Notebook</code>
+      </p>
     </td>
   </tr>
 </table>
 
-
-
+---
 
