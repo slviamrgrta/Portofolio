@@ -53,8 +53,17 @@ I enjoy solving real-world problems through data, and continuously strive to imp
 
 ## 🚀 Featured Projects
 
-### 🔍 [Urban Road Patterns & Traffic Congestion](https://github.com/slviamrgrta/Diagnostic-Project)
-Analyzed how road layout patterns (grid, radial, random) influence traffic congestion in major Indonesian cities using Python and Geospatial data.  
-Tech: Python, GeoPandas, Matplotlib, Jupyter  
-📄 [Read Full Report →](https://github.com/slviamrgrta/Diagnostic-Project)
+### 🛣️ Urban Road Patterns & Traffic Congestion  
+[🔗 View Repository](https://github.com/slviamrgrta/Diagnostic-Project)  
+<img src="https://github.com/username/Diagnostic-Project/raw/main/assets/preview.png" alt="Diagnostic Project Preview" width="600"/>
+
+A geospatial analysis project exploring how different road configurations (grid, radial, irregular) affect traffic congestion in 10 major Indonesian cities.  
+Utilized Python, GeoPandas, and real-world traffic data to visualize and identify urban planning insights.
+
+**Key Topics:** Road Design · Urban Congestion · Geospatial Data · Traffic Analysis  
+**Tech Stack:** `Python`, `GeoPandas`, `Matplotlib`, `Jupyter Notebook`
+
+---
+
+
 
