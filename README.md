@@ -40,6 +40,7 @@ I enjoy solving real-world problems through data, and continuously strive to imp
 - 📧 Email: [silviamargareta1363@gmail.com](mailto:silviamargareta1363@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/silvia-margareta](https://www.linkedin.com/in/silvia-margareta)
 
+---
 
 ## 🚀 Featured Projects
 
