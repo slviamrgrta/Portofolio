@@ -53,15 +53,31 @@ I enjoy solving real-world problems through data, and continuously strive to imp
 
 ## 🚀 Featured Projects
 
-### 🛣️ Urban Road Patterns & Traffic Congestion  
-[🔗 View Repository](https://github.com/slviamrgrta/Diagnostic-Project)  
-<img src="https://github.com/slviamrgrta/Portofolio/blob/main/Diagnostic%20Article.jpg" alt="Diagnostic Project Preview" width="600"/>
+<h2>🛣️ Urban Road Patterns & Traffic Congestion</h2>
 
-A geospatial analysis project exploring how different road configurations (grid, radial, irregular) affect traffic congestion in 10 major Indonesian cities.  
-Utilized Python, GeoPandas, and real-world traffic data to visualize and identify urban planning insights.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/username/Diagnostic-Project/raw/main/assets/cover.png" width="360" alt="Urban Traffic Cover"/>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <p>
+        A geospatial analysis project exploring how different road configurations 
+        (<strong>grid, radial, irregular</strong>) affect traffic congestion in 10 major Indonesian cities.
+      </p>
+      <p>
+        Utilized <strong>Python</strong>, <strong>GeoPandas</strong>, and real-world traffic data 
+        to visualize and identify urban planning insights.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/username/Diagnostic-Project">View Repository</a><br/>
+        <strong>Key Topics:</strong> Road Design · Urban Congestion · Geospatial Data · Traffic Analysis<br/>
+        <strong>Tech Stack:</strong> <code>Python</code>, <code>GeoPandas</code>, <code>Matplotlib</code>, <code>Jupyter Notebook</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Key Topics:** Road Design · Urban Congestion · Geospatial Data · Traffic Analysis  
-**Tech Stack:** `Python`, `GeoPandas`, `Matplotlib`, `Jupyter Notebook`
 
 ---
 
