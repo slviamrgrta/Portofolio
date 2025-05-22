@@ -58,7 +58,7 @@ I enjoy solving real-world problems through data, and continuously strive to imp
 <table>
   <tr>
     <td>
-      <img src="https://github.com/username/Diagnostic-Project/raw/main/assets/cover.png" width="360" alt="Urban Traffic Cover"/>
+      <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Diagnostic%20Article.jpg" width="360" alt="Urban Traffic Cover"/>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <p>
@@ -70,7 +70,7 @@ I enjoy solving real-world problems through data, and continuously strive to imp
         to visualize and identify urban planning insights.
       </p>
       <p>
-        🔗 <a href="https://github.com/username/Diagnostic-Project">View Repository</a><br/>
+        🔗 <a href="https://github.com/slviamrgrta/Diagnostic-Project">View Repository</a><br/>
         <strong>Key Topics:</strong> Road Design · Urban Congestion · Geospatial Data · Traffic Analysis<br/>
         <strong>Tech Stack:</strong> <code>Python</code>, <code>GeoPandas</code>, <code>Matplotlib</code>, <code>Jupyter Notebook</code>
       </p>
