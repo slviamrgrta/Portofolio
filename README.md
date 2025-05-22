@@ -2,6 +2,7 @@
 
 # 👩‍💻 Hello, I'm Silvia Margareta
 📍 6th Semester Undergraduate – Universitas Bunda Mulia
+
 🎓 Faculty of Technology and Design – Data Science Major 
 
 Welcome to my GitHub portfolio! I'm a data science student passionate about transforming raw data into meaningful insights and impactful solutions. I believe that creativity and analytical precision must go hand-in-hand to support data-driven decision-making in dynamic, real-world environments.
