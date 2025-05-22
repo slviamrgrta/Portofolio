@@ -1,6 +1,6 @@
 # Portofolio
 
-👩‍💻 Hello, I'm Silvia Margareta
+# 👩‍💻 Hello, I'm Silvia Margareta
 📍 6th Semester Undergraduate – Universitas Bunda Mulia
 🎓 Faculty of Technology and Design – Data Science Major (GPA: 3.94/4.00)
 
