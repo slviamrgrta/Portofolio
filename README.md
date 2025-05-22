@@ -24,17 +24,7 @@ I enjoy solving real-world problems through data, and continuously strive to imp
   - Database Management  
   - Business Intelligence  
 - **Soft Skills:** Communication · Leadership · Problem Solving · Time Management · Critical Thinking
-
----
-
-## 📁 Portfolio Highlights
-
-- 🔍 Exploratory Data Analysis (EDA) of real-world datasets  
-- 🤖 Machine Learning models for prediction and classification tasks  
-- 📊 Interactive dashboards and visual storytelling using BI tools  
-- 📈 Forecasting and trend analysis with statistical methods  
-- 🧠 Academic projects with practical applications
-
+  
 ---
 
 ## 🏆 Achievements
