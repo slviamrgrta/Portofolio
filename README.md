@@ -72,7 +72,7 @@ I enjoy solving real-world problems through data, and continuously strive to imp
 <table>
   <tr>
     <td>
-      <img src="images/6214afd2-c0c0-4db1-b025-3d39c3afab95.png" width="200"/>
+      <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Sentiment%20Analysis%20BCA.jpg" width="200"/>
     </td>
     <td>
       <b><a href="https://github.com/slviamrgrta/Portofolio/blob/main/Sentiment%20Analysis%20BCA.jpg" style="font-size: 18px;">📱 BCA Mobile App Sentiment Analysis</a></b><br>
