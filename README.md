@@ -1,6 +1,6 @@
 # Portofolio
 
-# 👩‍💻 Silvia Margareta | Aspiring Data Scientist
+# 👩‍💻 Hello, I'm Silvia Margareta
 
 **📍 6th Semester Undergraduate – Universitas Bunda Mulia**  
 **🎓 Faculty of Technology and Design – Data Science Major**  
