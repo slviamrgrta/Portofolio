@@ -55,7 +55,7 @@ I enjoy solving real-world problems through data, and continuously strive to imp
 
 ### 🛣️ Urban Road Patterns & Traffic Congestion  
 [🔗 View Repository](https://github.com/slviamrgrta/Diagnostic-Project)  
-<img src="https://github.com/username/Diagnostic-Project/raw/main/assets/preview.png" alt="Diagnostic Project Preview" width="600"/>
+<img src="https://github.com/slviamrgrta/Portofolio/blob/main/Diagnostic%20Article.jpg" alt="Diagnostic Project Preview" width="600"/>
 
 A geospatial analysis project exploring how different road configurations (grid, radial, irregular) affect traffic congestion in 10 major Indonesian cities.  
 Utilized Python, GeoPandas, and real-world traffic data to visualize and identify urban planning insights.
