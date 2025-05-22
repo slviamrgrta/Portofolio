@@ -100,8 +100,6 @@ I enjoy solving real-world problems through data, and continuously strive to imp
 
 </div>
 
----
-
 <!-- Project 3 -->
 <table style="width: 100%; table-layout: fixed;">
   <tr>
