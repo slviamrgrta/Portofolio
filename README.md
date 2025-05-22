@@ -50,7 +50,7 @@ I enjoy solving real-world problems through data, and continuously strive to imp
   <table style="width: 100%; table-layout: fixed;">
     <tr>
       <td style="width: 360px;">
-        <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Jalan.png" width="360" alt="Urban Traffic Cover" />
+        <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Diagnostic%20Article.jpg" width="360" alt="Urban Traffic Cover" />
       </td>
       <td style="vertical-align: top; padding-left: 20px;">
         <h3>
@@ -101,4 +101,31 @@ I enjoy solving real-world problems through data, and continuously strive to imp
 </div>
 
 ---
+<div style="display: flex; flex-direction: column; gap: 40px;">
+
+  <!-- Project 1 -->
+  <table style="width: 100%; table-layout: fixed;">
+    <tr>
+      <td style="width: 360px;">
+        <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Sentiment%20Analysis%20BCA.jpg" width="360" alt="Urban Traffic Cover" />
+      </td>
+      <td style="vertical-align: top; padding-left: 20px;">
+        <h3>
+          <a href="https://github.com/slviamrgrta/Diagnostic-Project" target="_blank" style="text-decoration: none;">🛣️ Urban Road Patterns & Traffic Congestion</a>
+        </h3>
+        <p>
+          A geospatial analysis project exploring how different road configurations 
+          (<strong>grid, radial, irregular</strong>) affect traffic congestion in 10 major Indonesian cities.
+        </p>
+        <p>
+          Utilized <strong>Python</strong>, <strong>GeoPandas</strong>, and real-world traffic data 
+          to visualize and identify urban planning insights.
+        </p>
+        <p>
+          <strong>Key Topics:</strong> Road Design · Urban Congestion · Geospatial Data · Traffic Analysis<br/>
+          <strong>Tech Stack:</strong> <code>Python</code>, <code>GeoPandas</code>, <code>Matplotlib</code>, <code>Jupyter Notebook</code>
+        </p>
+      </td>
+    </tr>
+  </table>
 
