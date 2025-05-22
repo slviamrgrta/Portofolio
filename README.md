@@ -3,7 +3,7 @@
 # 👩‍💻 Silvia Margareta | Aspiring Data Scientist
 
 **📍 6th Semester Undergraduate – Universitas Bunda Mulia**  
-**🎓 Faculty of Technology and Design – Data Science Major (GPA: 3.94/4.00)**  
+**🎓 Faculty of Technology and Design – Data Science Major**  
 
 ---
 
