@@ -106,7 +106,7 @@ I enjoy solving real-world problems through data, and continuously strive to imp
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 360px;">
-      <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Spam%20Email%20Classifier.jpg" width="360" alt="Spam Email Classification Cover" />
+      <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Spambase.jpg" width="360" alt="Spam Email Classification Cover" />
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>
