@@ -98,14 +98,14 @@ I enjoy solving real-world problems through data, and continuously strive to imp
   </table>
 
   <!-- Project 3 -->
-<div style="display: flex; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+<div style="display: flex; align-items: flex-start; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
   <img src="https://github.com/slviamrgrta/Portofolio/blob/main/Spambase.jpg" alt="Spam Email Classification" width="260" height="180" style="border-radius: 6px; object-fit: cover; margin-right: 20px;">
   <div>
     <h3>
       <a href="https://github.com/slviamrgrta/Spambase-Project" target="_blank" style="color: #0969da; text-decoration: none;">📧 Spam Email Classification with Machine Learning</a>
     </h3>
     <p>
-      A machine learning project aimed at classifying emails as <strong>spam</strong> or <strong>non-spam</strong> using the <strong>XGBoost</strong> algorithm. 
+      A machine learning project aimed at classifying emails as <strong>spam</strong> or <strong>non-spam</strong> using the <strong>XGBoost</strong> algorithm.
       Developed as part of the final project for the <em>Machine Learning</em> course at Universitas Bunda Mulia.
     </p>
     <p>
@@ -117,6 +117,7 @@ I enjoy solving real-world problems through data, and continuously strive to imp
     </p>
   </div>
 </div>
+
 
 
 
