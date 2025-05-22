@@ -34,7 +34,7 @@ International CertNexus DS BIZ Certification (2025)
 
 Let's connect and collaborate — I’m open to internships, project-based collaborations, and mentorship opportunities!
 
-📫 LinkedIn https://www.linkedin.com/in/silvia-margareta/
+📫 LinkedIn: https://www.linkedin.com/in/silvia-margareta/
 
-📧 silviamargareta1363@gmail.com
+📧 Email: silviamargareta1363@gmail.com
 
